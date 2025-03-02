@@ -1,1 +1,3 @@
 Creating File in git repo and adding that file into our local system -> git pull
+
+Making change in git repo file and make this change to reflect into our local system  -> git pull
