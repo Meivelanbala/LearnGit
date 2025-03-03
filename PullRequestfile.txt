@@ -1,1 +1,1 @@
-This file is Created in SubBranch2 and making pull request to merge into making
+This file is Created in SubBranch2 and making pull request to merge into main
